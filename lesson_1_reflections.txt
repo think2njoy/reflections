@@ -1,0 +1,25 @@
+this course is good because it talks about git and github. 
+rightnow they just showed how to see diffs between files. okay. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+we can go back to an earlier version anytime, without much difficulty. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros: good for judgement n flexibility
+cons: risks involved in relying on individual routines entirely
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It's because git is more programmer friendly :-) Well suited for developers -- not just software personnel but writers of novels as well. 
+
+How can you use the commands git log and git diff to view the history of files?
+git log --stat
+git diff <first_id> <second_id>
+
+How might using version control make you more confident to make changes that could break something?
+Because we can always revert back to one that works!
+
+How Do You Want to Use Git?
+for version control
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Test efficiency of code development. 
