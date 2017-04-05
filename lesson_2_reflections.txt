@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+when you initialize a repo, you get .git on your directory -- basically, it enables the files on this repo to be 
+tracked / commited. You need to do that to maintain snapshots of changes in your repo. 
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+contents of the staging area can be directly committed to the repo, whereas the working directory 
+contents need to be added to the staging area in the first place. 
+staging area helps to add those file(s) that are done, so that you can decide when to commit or create a snapshot 
+of the current state of repo in a more flexible manner. 
+
+
