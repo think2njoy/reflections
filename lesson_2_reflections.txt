@@ -14,3 +14,11 @@ of the current state of repo in a more flexible manner.
 How can you use the staging area to make sure you have one commit per logical change?
 by committing file(s) in the staging area that adds up to one logical change. 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful especially to explore newer ideas, without disturbing the working code. 
+Also the branch label helps in keeping track of knowing what was done. 
+
+How do the diagrams help you visualize the branch structure?
+they help to know where you are. 
+
+and what to do as well. 
