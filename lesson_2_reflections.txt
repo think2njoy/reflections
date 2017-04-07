@@ -10,3 +10,7 @@ staging area helps to add those file(s) that are done, so that you can decide wh
 of the current state of repo in a more flexible manner. 
 
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+by committing file(s) in the staging area that adds up to one logical change. 
+
