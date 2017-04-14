@@ -19,6 +19,9 @@ Branches are helpful especially to explore newer ideas, without disturbing the w
 Also the branch label helps in keeping track of knowing what was done. 
 
 How do the diagrams help you visualize the branch structure?
-they help to know where you are. 
+they help to know where you are and what to do as well. 
 
-and what to do as well. 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+you have the commits from both the branches present in a chronological order (based on their time stamps). 
+
+
