@@ -24,4 +24,8 @@ they help to know where you are and what to do as well.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
 you have the commits from both the branches present in a chronological order (based on their time stamps). 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+auto-merge can be desirable / not, depending up on the code context. 
+merging manually can be quite involved. however, it is usually the best way to go whenever there is a conflict. 
+
 
