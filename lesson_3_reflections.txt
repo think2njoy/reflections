@@ -6,4 +6,9 @@ because there could be changes made by others that at least in some cases are no
 so git-local automatically staying up to date with git-remote is not a good idea. 
 hence, pulling changes manually i think should be the preferred mode. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are for github. 
+clones can be done either between 2 local repositories or between a local and a remote repository. 
+branching is just for the current local repository. 
+
 
